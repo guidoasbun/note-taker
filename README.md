@@ -3,7 +3,7 @@
 ![Project Image](https://guidoasbun.s3.amazonaws.com/Note-Taker.png)
 
 > ![GitHub repo size](https://img.shields.io/github/repo-size/guidoasbun/note-taker) ![GitHub](https://img.shields.io/github/license/guidoasbun/note-taker)
- ![GitHub last commit](https://img.shields.io/github/last-commit/guidoasbun/Profile)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/guidoasbun/note-taker)
 ---
 
 ### Table of Contents
