@@ -34,7 +34,7 @@ A Node application that takes notes.
 ---
 
 ## How To Use
-
+- Go to website https://limitless-ocean-26137.herokuapp.com/
  - After repo is cloned, run
  ```
  $ git npm install
